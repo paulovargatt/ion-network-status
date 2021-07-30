@@ -1,0 +1,17 @@
+{
+  "name": "@aggrega/ionic-component-networkstatus",
+  "version": "1.0.0",
+  "description": "componente para verificar status de conexao",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AGGREGA/ionic-component-networkstatus.git"
+  },
+  "author": "Paulo vargatt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AGGREGA/ionic-component-networkstatus/issues"
+  },
+  "homepage": "https://github.com/AGGREGA/ionic-component-networkstatus#readme",
+  "dependencies": {}
+}

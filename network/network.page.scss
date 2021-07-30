@@ -1,0 +1,24 @@
+ion-content {
+
+  .box {
+    ion-icon {
+      font-size: 7em;
+      width: 100%;
+    }
+
+    padding: 25px;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 90%;
+    h2, p {
+      color: #fff;
+      margin: 3px;
+      text-align: center;
+    }
+  }
+
+
+}
